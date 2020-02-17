@@ -37,8 +37,9 @@ Coding guidance: Combine "clean, object-oriented, tested code" with "working sof
 
 What would you do if you had more time? Which trade-offs did you take?
 
-* More test cases with edge case could be written 
+* More test cases with edge case could be written. 
 * Approach for join implementation looks bit complicated. It can be improved.
+* For simplicity the column name in sort and join methods are the name of property of entities. This can be improved.
 
 
 Have fun!
